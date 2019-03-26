@@ -2,7 +2,7 @@
 
 **ZumCoin Paper Wallet Generator**
 
-https://zumcoin.org/wallet
+https://paperwallet.zumcoin.org
 
 ## LICENSE
 
